@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pancakeswap.finance/',
+    href: 'https://tmp-swap-interface-v1.vercel.app/',
   },
   {
     label: 'Trade',
@@ -21,11 +21,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Exchange',
-        href: 'https://exchange.pancakeswap.finance/#/swap',
+        href: 'https://tmp-swap-interface-v1.vercel.app/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.pancakeswap.finance/#/pool',
+        href: 'https://tmp-swap-interface-v1.vercel.app/#/pool',
       },
       {
         label: 'V1 Liquidity (Old)',
@@ -36,17 +36,17 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://pancakeswap.finance/farms',
+    href: 'https://tmp-swap-interface-v1.vercel.app/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://pancakeswap.finance/pools',
+    href: 'https://tmp-swap-interface-v1.vercel.app/pools',
   },
   {
     label: 'Prediction',
     icon: 'PredictionsIcon',
-    href: 'https://pancakeswap.finance/prediction',
+    href: 'https://tmp-swap-interface-v1.vercel.app/prediction',
     status: {
       text: 'BETA',
       color: 'warning',
@@ -55,17 +55,17 @@ const config: MenuEntry[] = [
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'https://pancakeswap.finance/lottery',
+    href: 'https://tmp-swap-interface-v1.vercel.app/lottery',
   },
   {
     label: 'Collectibles',
     icon: 'NftIcon',
-    href: 'https://pancakeswap.finance/nft',
+    href: 'https://tmp-swap-interface-v1.vercel.app/nft',
   },
   {
     label: 'Team Battle',
     icon: 'TeamBattleIcon',
-    href: 'https://pancakeswap.finance/competition',
+    href: 'https://tmp-swap-interface-v1.vercel.app/competition',
   },
   {
     label: 'Teams & Profile',

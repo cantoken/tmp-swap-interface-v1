@@ -51,7 +51,7 @@ const Migration = () => {
             </CardHeader>
             <CardBody>
               <Text mb="24px">Any new liquidity you add will use the updated system by default. Simple!</Text>
-              <Button as={Link} external href="https://exchange.pancakeswap.finance/#/pool" style={{ width: '100%' }}>
+              <Button as={Link} external href="https://tmp-swap-interface-v1.vercel.app/#/pool" style={{ width: '100%' }}>
                 Add liquidity
               </Button>
             </CardBody>

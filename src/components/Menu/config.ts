@@ -73,15 +73,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Leaderboard',
-        href: 'https://pancakeswap.finance/teams',
+        href: 'https://tmp-swap-interface-v1.vercel.app/teams',
       },
       {
         label: 'Task Center',
-        href: 'https://pancakeswap.finance/profile/tasks',
+        href: 'https://tmp-swap-interface-v1.vercel.app/profile/tasks',
       },
       {
         label: 'Your Profile',
-        href: 'https://pancakeswap.finance/profile',
+        href: 'https://tmp-swap-interface-v1.vercel.app/profile',
       },
     ],
   },
@@ -110,7 +110,7 @@ const config: MenuEntry[] = [
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: 'https://pancakeswap.finance/ifo',
+    href: 'https://tmp-swap-interface-v1.vercel.app/ifo',
   },
   {
     label: 'More',
@@ -118,11 +118,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Contact',
-        href: 'https://docs.pancakeswap.finance/contact-us',
+        href: 'https://docs.tmp-swap-interface-v1.vercel.app/contact-us',
       },
       {
         label: 'Voting',
-        href: 'https://voting.pancakeswap.finance',
+        href: 'https://voting.tmp-swap-interface-v1.vercel.app',
       },
       {
         label: 'Github',
@@ -130,7 +130,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://docs.pancakeswap.finance',
+        href: 'https://docs.tmp-swap-interface-v1.vercel.app',
       },
       {
         label: 'Blog',
